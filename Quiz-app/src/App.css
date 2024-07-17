@@ -1,0 +1,20 @@
+body {
+  background-color: #292b2e;
+  color: #ffffff;
+}
+
+.app-title {
+  color: #ffffff;
+  margin-top: 2rem;
+  color: #c9d1db;
+}
+
+.App {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: blueviolet;
+  padding: 20px 50px;
+  border-radius: 4px;
+}
